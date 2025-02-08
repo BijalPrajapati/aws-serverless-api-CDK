@@ -34,8 +34,9 @@ Main components
     - install AWS CLI
 2. install AWS CDK: npm install -g aws-cdk
 3. crate IAM user in AWS console -> aws configure
-4. - Configure the aws-cli and credentials (aws configure)
+4. Configure the aws-cli and credentials (aws configure)
 5. Initialize Project: cdk init --language typescript
+
 deploye
 6. npm run build
 7. Synthesizing: cdk synth (create cloud formation template -> cdk.out folder created)
